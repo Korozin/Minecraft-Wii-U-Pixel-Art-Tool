@@ -21,3 +21,18 @@ Just click load color config and select your .pxl file!
 
 # Pictures!
 
+### Once opened
+
+![opened](https://user-images.githubusercontent.com/90534409/155815072-398f0ec5-0757-4430-b93c-605d6a48d4dc.png)
+
+### PNG result demonstration
+
+![demonstration](https://user-images.githubusercontent.com/90534409/155815120-ba3e6847-39fc-4ea0-b232-5f220224ee87.png)
+
+### Adding a new block to your config
+
+![creating new block](https://user-images.githubusercontent.com/90534409/155815145-cd6e89d9-c6dd-45ee-98e2-ebb732447766.png)
+
+### Loading saved color config
+
+![loading a config](https://user-images.githubusercontent.com/90534409/155815179-3d38b710-92df-4b33-93b1-3048a8e73c17.png)
