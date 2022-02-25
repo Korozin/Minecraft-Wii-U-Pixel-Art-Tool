@@ -14,12 +14,14 @@ From there you can just press paste and wait as it converts the image.
 ### THIS NEXT STEP IS IMPORTANT
 
 Once you press paste stay in the area you want it to be pasted at, and have your hotbar selected on your FIRST slot and keep it EMPTY so the tool can load the needed blocks into your inventory, 
-If you do not this the paste will FAIL.
+If you do not this the paste will FAIL. The tool will notify you once it's done converting, once it displays that message you are free to move again.
 
 # To load block presets
 Just click load color config and select your .pxl file!
 
 # Pictures!
+
+## Keep in mind pictures look weird on my end because I'm running it through WINE on Linux.
 
 ### Once opened
 
