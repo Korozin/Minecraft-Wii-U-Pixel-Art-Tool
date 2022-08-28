@@ -7,5 +7,5 @@ https://user-images.githubusercontent.com/101918076/187061190-b6f47d3f-a550-4d62
 ## Credits 😘
 <p align="left">
 <img src="https://github.com/Pop-Apple/Minecraft-WiiU-Pixel-Art-Tool/blob/main/ReadMe-Edit/Korozin.jpg" width="100" height="100">
-<img src="https://github.com/Pop-Apple/Minecraft-WiiU-Pixel-Art-Tool/blob/main/ReadMe-Edit/Pop-Apple.jpg" width="50" height="50">
+<img src="https://github.com/Pop-Apple/Minecraft-WiiU-Pixel-Art-Tool/blob/main/ReadMe-Edit/Pop-Apple.jpg" width="70" height="70">
 </p>
